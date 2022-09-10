@@ -1,6 +1,0 @@
-/home/mingshi/project/hello/build/CMakeFiles/intrinsics_gen.dir
-/home/mingshi/project/hello/build/CMakeFiles/omp_gen.dir
-/home/mingshi/project/hello/build/CMakeFiles/acc_gen.dir
-/home/mingshi/project/hello/build/CMakeFiles/HelloWorld.dir
-/home/mingshi/project/hello/build/CMakeFiles/edit_cache.dir
-/home/mingshi/project/hello/build/CMakeFiles/rebuild_cache.dir
